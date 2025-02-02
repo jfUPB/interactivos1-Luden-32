@@ -1,4 +1,4 @@
-## Proyecto: “EchoSight” – Un Mundo Que Solo Ves con el Sonido
+## Proyecto: “EchoSight” – Un mundo que solo ves con el Sonido
 "EchoSight" es un juego de exploración y sigilo donde los jugadores solo pueden “ver” su entorno a través de ondas sonoras. Cada sonido—ya sea el eco de sus propios pasos, un golpe contra una pared o el rugido de un enemigo—revela fragmentos del mundo a su alrededor. Pero hacer demasiado ruido puede atraer peligros.
 
 ### Integración de Sistemas Físicos Interactivos
