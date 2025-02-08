@@ -4,7 +4,7 @@
 Al presionar los botones A y B del micro:bit, la pantalla del editor de p5.js muestra la letra correspondiente al botón presionado. Además, el círculo en la pantalla cambia de color: rojo para A y amarillo para B.
 
 #### Cómo se logra: 
-Este comportamiento ocurre gracias a la comunicación entre el micro:bit y la computadora a través de la conexión serial. En actividades anteriores, hemos trabajado con la captura de eventos y la comunicación entre dispositivos, lo que nos permite entender que el micro:bit detecta la presión del botón y envía un carácter a la computadora mediante UART. En p5.js, el puerto serial lee esta información y cambia la interfaz gráfica de acuerdo con los datos recibidos.
+El micro:bit detecta la presión del botón y envía un carácter a la computadora mediante UART. En p5.js, el puerto serial lee esta información y cambia la interfaz gráfica de acuerdo con los datos recibidos.
 
 ### Paso 16: Sacudir el dispositivo
 
@@ -12,7 +12,7 @@ Este comportamiento ocurre gracias a la comunicación entre el micro:bit y la co
 Al agitar el micro:bit, en la pantalla del editor de p5.js aparece la letra 'C' y el círculo se vuelve verde.
 
 #### Cómo se logra: 
-Cuando se reconoce el gesto, el código de micro:bit envía la letra 'C' por la conexión serial. En p5.js, la interfaz lee esta entrada y cambia la visualización. Este proceso es similar a cómo se manejan eventos basados en sensores en otros proyectos que hemos desarrollado.
+Cuando se reconoce el gesto, el código de micro:bit envía la letra 'C' por la conexión serial. En p5.js, la interfaz lee esta entrada y cambia la visualización. 
 
 ### Paso 17: Presionar el botón "Send Love"
 
