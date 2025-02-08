@@ -20,5 +20,5 @@ Cuando se reconoce el gesto, el código de micro:bit envía la letra 'C' por la 
 Al hacer clic en el botón "Send Love" dentro de la interfaz de p5.js, la pantalla del micro:bit muestra un corazón por un momento y luego cambia a una carita feliz.
 
 #### Cómo se logra: 
-En proyectos anteriores, hemos trabajado con la manipulación de interfaces gráficas y la transmisión de datos desde la computadora hacia un dispositivo externo. En este caso, cuando se presiona el botón en p5.js, se ejecuta la función sendBtnClick(), que envía el carácter 'h' al micro:bit. Este, al recibir el dato, cambia la visualización en su pantalla de acuerdo con la lógica definida en su código.
+Cuando se presiona el botón en p5.js, se ejecuta la función sendBtnClick(), que envía el carácter 'h' al micro:bit. Este, al recibir el dato, cambia la visualización en su pantalla de acuerdo con la lógica definida en su código.
 
