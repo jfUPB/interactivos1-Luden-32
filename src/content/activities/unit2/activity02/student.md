@@ -1,0 +1,3 @@
+Mi objetivo de aprendizaje para la Unidad 2 es adquirir habilidades en la programación de microcontroladores con Micropython en la tarjeta micro:bit, centrándome en el manejo de entradas y salidas, así como en la implementación de máquinas de estado finitas. Para medir mi avance, llevaré a cabo una serie de experimentos prácticos que culminarán en el desarrollo de una bomba temporizada para un escape room simulado.
+
+Considero que esta meta es alcanzable, ya que está en sintonía con los objetivos de la unidad y los recursos disponibles. Además, es relevante para mi formación en ingeniería en diseño de entretenimiento digital, pues me permitirá desarrollar sistemas interactivos que reaccionen a estímulos del entorno. 
